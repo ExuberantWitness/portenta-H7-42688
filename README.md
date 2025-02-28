@@ -39,3 +39,7 @@ Temperature data in °C
 To use this code, upload it to your Portenta H7 board and connect the ICM42688 sensor to the appropriate SPI pins. The serial monitor will display the sensor readings at 1-second intervals.
 
 其运行效果和接线方案参见附件的两个图片
+
+
+非常感谢：
+1，https://forum.arduino.cc/t/minimal-example-of-spi-for-portenta-h7/695207 提供的SPI通信案例
