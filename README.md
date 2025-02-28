@@ -1,3 +1,4 @@
+Hi,大家好
 I'll create an Arduino sketch for the Portenta H7 to read data from the ICM42688 gyroscope via SPI1 and send it to the serial monitor at 9600 baud.
 
 The code I've created translates the MicroPython driver to Arduino C++ for the Portenta H7, implementing SPI communication with the ICM42688 gyroscope sensor.
@@ -25,7 +26,8 @@ Enables the accelerometer, gyroscope, and temperature sensor
 Configures the data rates and ranges
 
 
-5,Data Reading: Implements functions to read and convert sensor data:
+5,Data Reading: 
+Implements functions to read and convert sensor data:
 
 Accelerometer data in g (gravity)
 Gyroscope data in dps (degrees per second)
@@ -36,4 +38,4 @@ Temperature data in °C
 
 To use this code, upload it to your Portenta H7 board and connect the ICM42688 sensor to the appropriate SPI pins. The serial monitor will display the sensor readings at 1-second intervals.
 
-
+其运行效果和接线方案参见附件的两个图片
