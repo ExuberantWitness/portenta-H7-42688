@@ -41,5 +41,9 @@ To use this code, upload it to your Portenta H7 board and connect the ICM42688 s
 其运行效果和接线方案参见附件的两个图片
 
 
+![图片1描述](03f55ad680c9b9b22c834ae450b51df.jpg)
+![图片2描述](9c934f04ab9745bee343875479400ec.jpg)
+![图片3描述](Quicker_20250228_084414.png)
+
 非常感谢：
 1，https://forum.arduino.cc/t/minimal-example-of-spi-for-portenta-h7/695207 提供的SPI通信案例
