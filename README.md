@@ -35,3 +35,5 @@ Temperature data in °C
 6,Main Loop: Reads and displays all sensor data every second
 
 To use this code, upload it to your Portenta H7 board and connect the ICM42688 sensor to the appropriate SPI pins. The serial monitor will display the sensor readings at 1-second intervals.
+
+
